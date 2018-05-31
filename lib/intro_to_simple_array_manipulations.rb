@@ -22,13 +22,13 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-#def using_concat(array, new_array)
-#  array.concat(new_array)
-#end
+def using_concat(array, new_array)
+  array.concat(new_array)
+end
 
-#def using_insert(array, new_array)
-#  array.insert(new_array)
-#end
+def using_insert(array, new_array)
+  array.insert(new_array)
+end
 
 def using_uniq(array)
   array.uniq
