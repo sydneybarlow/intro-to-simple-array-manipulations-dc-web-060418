@@ -30,12 +30,12 @@ end
 #  array.insert(new_array)
 #end
 
-#def using_uniq(array)
-#  array.uniq()
-#end
+def using_uniq(array)
+  array.uniq
+end
 
 #def using_flatten(array)
-#  array.flatten()
+#  array.flatten
 #end 
 
 #def using_delete(array, "string")
